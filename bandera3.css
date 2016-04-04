@@ -1,0 +1,9 @@
+#rojo {background-color: red; }
+#amarillo {background-color: yellow; }
+
+div {
+	width: 200px;
+	height: 70px;
+	margin-right: 5px; 
+	display:inline-block;
+}
