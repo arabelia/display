@@ -1,6 +1,6 @@
 /*#plomo {background-color: #989696; }*/
 
-#linea{display: inline-block;}
+.linea{display: inline-block;}
 
 
 .divContenedor{
@@ -11,7 +11,7 @@
 	background-color: grey;
 }
 
-#divContenido{
+.divContenido{
 	width: 70px;
 	height: 70px;
 	border:1px solid black;
